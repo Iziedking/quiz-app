@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+@theme {
+  --font-anime: "Press Start 2P", cursive;
+}
+
